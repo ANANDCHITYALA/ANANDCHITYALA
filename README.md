@@ -16,10 +16,8 @@
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/ANANDCHITYALA?template=classic&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&achievements=true&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FCalcutta" />
+  <img src="https://metrics.lecoq.io/ANANDCHITYALA?template=classic&base=header,activity,community,repositories,metadata&achievements=1&achievements.threshold=C&achievements.display=compact&achievements.secrets=true&config.timezone=Asia%2FCalcutta" />
 </p>
-
-
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/ANANDCHITYALA?label=Followers&style=flat-square" />
@@ -30,7 +28,7 @@
 
 ---
 
-## 🔧 Technologies & Tools
+## 💻 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,django,mysql,mongodb,git,github,figma,docker,linux" />
@@ -41,7 +39,7 @@
 
 ---
 
-## 📌 Pinned Skills
+## 🧠 Pinned Skills
 
 ![Frontend](https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react)
 ![Backend](https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge&logo=node.js)
@@ -52,17 +50,17 @@
 
 ## 🚀 Featured Projects
 
-🔹 **[TrueVeda AyurLife Website](https://github.com/ANANDCHITYALA/TrueVeda-AyurLife-Website)**  
+🔹 [![TrueVeda AyurLife Website](https://img.shields.io/badge/Project-TrueVeda%20AyurLife-blue?style=flat-square)](https://github.com/ANANDCHITYALA/TrueVeda-AyurLife-Website)  
 ‣ *Role*: Frontend Developer  
 ‣ *Tech Used*: HTML, CSS, JavaScript  
 ‣ *Summary*: Built a responsive Ayurvedic health website for wellness and product promotion.
 
-🔹 **[Internship](https://github.com/ANANDCHITYALA/Internship)**  
+🔹 [![Internship](https://img.shields.io/badge/Project-Internship-green?style=flat-square)](https://github.com/ANANDCHITYALA/Internship)  
 ‣ *Role*: Full Stack Developer (Trainee)  
 ‣ *Tech Used*: HTML, JavaScript, APIs  
 ‣ *Summary*: Solved real-world frontend tasks and REST API challenges during internship.
 
-🔹 **[Fswdt-nov](https://github.com/ANANDCHITYALA/Fswdt-nov)**  
+🔹 [![Fswdt-nov](https://img.shields.io/badge/Project-FSWDT%20Training-purple?style=flat-square)](https://github.com/ANANDCHITYALA/Fswdt-nov)  
 ‣ *Role*: Developer  
 ‣ *Tech Used*: MERN Stack  
 ‣ *Summary*: Projects from Full Stack Developer training bootcamp.
@@ -77,7 +75,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Insights
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ANANDCHITYALA&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -97,7 +95,7 @@
 ## 📄 Resume
 
 📥 *[Download My Resume](https://yourdomain.com/resume.pdf)*  
-> 🔧 Let me know when you have a live link and I’ll replace the placeholder.
+> ⚠️ Replace with your actual resume URL or GitHub file link.
 
 ---
 
@@ -114,7 +112,7 @@
 
 ---
 
-<!-- Optional: GitHub Contribution Snake -->
+<!-- 🐍 Optional Snake Contribution Animation -->
 <!--
 ## 🐍 Contribution Snake
 ![Snake animation](https://github.com/ANANDCHITYALA/ANANDCHITYALA/blob/output/github-contribution-grid-snake.svg)
