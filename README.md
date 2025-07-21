@@ -30,28 +30,22 @@
 
 ## 🚀 Featured Projects
 
-🔹 **[TrueVeda AyurLife Website](https://github.com/ANANDCHITYALA/TrueVeda-AyurLife-Website)**  
-‣ *Role*: Frontend Developer  
-‣ *Tech Used*: HTML, CSS, JavaScript  
-‣ *Summary*: Built a responsive Ayurvedic health website for wellness and product promotion.
-
-🔹 **[Internship](https://github.com/ANANDCHITYALA/Internship)**  
-‣ *Role*: Full Stack Developer (Trainee)  
-‣ *Tech Used*: HTML, JavaScript, APIs  
-‣ *Summary*: Solved real-world frontend tasks and REST API challenges during internship.
-
-🔹 **[Fswdt-nov](https://github.com/ANANDCHITYALA/Fswdt-nov)**  
-‣ *Role*: Developer  
-‣ *Tech Used*: MERN Stack  
-‣ *Summary*: Projects from Full Stack Developer training bootcamp.
+<div align="center">
+  <a href="https://github.com/ANANDCHITYALA/Internship" target="_blank" style="text-decoration: none;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ANANDCHITYALA&repo=Internship&theme=radical" />
+  </a>
+  <a href="https://github.com/ANANDCHITYALA/Fswdt-nov" target="_blank" style="text-decoration: none;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ANANDCHITYALA&repo=Fswdt-nov&theme=radical" />
+  </a>
+</div>
 
 ---
 
 ## 🎓 Certifications & Achievements
 
-- 🏅 Meta Front-End Developer – Coursera (2025)  
-- 🏅 JavaScript Algorithms – freeCodeCamp  
-- 🥇 1st place in college-level Hackathon – 2024
+- 🏅 [Meta Front-End Developer – Coursera (2025)](https://coursera.org/verify/YOUR_META_CERT_LINK)
+- 🏅 [JavaScript Algorithms – freeCodeCamp](https://www.freecodecamp.org/certification/YOUR_USERNAME/javascript-algorithms-and-data-structures)
+- 🥇 [1st place in college-level Hackathon – 2024](https://drive.google.com/file/d/YOUR_HACKATHON_CERT_ID/view?usp=sharing)
 
 ---
 
