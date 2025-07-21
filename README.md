@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anand Chityala</h1>
-<h3 align="center">🚀 Full Stack Web Developer | 🌐 Tech Enthusiast | 💡 Lifelong Learner</h3>
+<h3 align="center">Full Stack Web Developer | Tech Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ANANDCHITYALA&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views" />
@@ -15,7 +15,7 @@
 
 ## 🏆 GitHub Achievements
 
-<p align="center">
+<p>
   <img src="https://github-profile-trophy.vercel.app/?username=ANANDCHITYALA&theme=gruvbox&margin-w=15&no-bg=true" />
 </p>
 
@@ -28,21 +28,8 @@
 
 ---
 
-## 📌 Pinned Skills
-
-![Frontend](https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react)
-![Backend](https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge&logo=node.js)
-![Database](https://img.shields.io/badge/Database-MongoDB-brightgreen?style=for-the-badge&logo=mongodb)
-![Tools](https://img.shields.io/badge/Tools-Docker-orange?style=for-the-badge&logo=docker)
-
----
 
 ## 🚀 Featured Projects
-
-🔹 **[TrueVeda AyurLife Website](https://github.com/ANANDCHITYALA/TrueVeda-AyurLife-Website)**  
-‣ *Role*: Frontend Developer  
-‣ *Tech Used*: HTML, CSS, JavaScript  
-‣ *Summary*: Built a responsive Ayurvedic health website for wellness and product promotion.
 
 🔹 **[Internship](https://github.com/ANANDCHITYALA/Internship)**  
 ‣ *Role*: Full Stack Developer (Trainee)  
