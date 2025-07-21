@@ -15,7 +15,8 @@
 
 ## 🏆 GitHub Achievements
 
-<img src="https://metrics.lecoq.io/ANANDCHITYALA?template=classic&base=header,activity,community,repositories,metadata&achievements=1&config.timezone=Asia%2FCalcutta" alt="GitHub Achievements" />
+![GitHub Metrics](https://metrics.lecoq.io/ANANDCHITYALA?template=classic&base=header,activity,community,repositories,metadata&config.timezone=Asia%2FCalcutta&achievements=1&achievements.threshold=C&achievements.display=compact)
+
 
 
 ---
