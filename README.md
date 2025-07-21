@@ -31,13 +31,14 @@
 ## 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/ANANDCHITYALA/Internship" target="_blank" style="text-decoration: none;">
+  <a href="https://github.com/ANANDCHITYALA/Crime-Data-Analysis.git" target="_blank" style="text-decoration: none;">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ANANDCHITYALA&repo=Internship&theme=radical" />
   </a>
-  <a href="https://github.com/ANANDCHITYALA/Fswdt-nov" target="_blank" style="text-decoration: none;">
+  <a href="https://github.com/ANANDCHITYALA/Detection-of-mobile-malicious-web-pages.git" target="_blank" style="text-decoration: none;">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ANANDCHITYALA&repo=Fswdt-nov&theme=radical" />
   </a>
 </div>
+
 
 ---
 
