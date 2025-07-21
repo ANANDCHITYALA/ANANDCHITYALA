@@ -32,12 +32,13 @@
 
 <div align="center">
   <a href="https://github.com/ANANDCHITYALA/Crime-Data-Analysis.git" target="_blank" style="text-decoration: none;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ANANDCHITYALA&repo=Internship&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ANANDCHITYALA&repo=Crime-Data-Analysis&theme=radical" />
   </a>
   <a href="https://github.com/ANANDCHITYALA/Detection-of-mobile-malicious-web-pages.git" target="_blank" style="text-decoration: none;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ANANDCHITYALA&repo=Fswdt-nov&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ANANDCHITYALA&repo=Detection-of-mobile-malicious-web-pages&theme=radical" />
   </a>
 </div>
+
 
 
 ---
