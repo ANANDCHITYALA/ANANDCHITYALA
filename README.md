@@ -15,8 +15,17 @@
 
 ## 🏆 GitHub Achievements
 
-![GitHub Metrics](https://metrics.lecoq.io/ANANDCHITYALA?template=classic&base=header,activity,community,repositories,metadata&config.timezone=Asia%2FCalcutta&achievements=1&achievements.threshold=C&achievements.display=compact)
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ANANDCHITYALA&theme=gruvbox&margin-w=15&no-bg=true" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/ANANDCHITYALA?label=Followers&style=flat-square" />
+  <img src="https://img.shields.io/github/stars/ANANDCHITYALA?label=Stars&style=flat-square" />
+  <img src="https://img.shields.io/github/repos/ANANDCHITYALA?label=Public%20Repos&style=flat-square" />
+  <img src="https://img.shields.io/github/gists/ANANDCHITYALA?label=Gists&style=flat-square" />
+</p>
 
 
 ---
