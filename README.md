@@ -1,44 +1,112 @@
-## 👋 Hi there, I'm Anand Chityala
+<h1 align="center">Hi 👋, I'm Anand Chityala</h1>
+<h3 align="center">🚀 Full Stack Web Developer | 🌐 Tech Enthusiast | 💡 Lifelong Learner</h3>
 
-🎯 Full Stack Web Developer | 💡 Lifelong Learner | 🌐 Tech Enthusiast
-
----
-
-### 🛠️ Tech Stack
-
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python)
-![React](https://img.shields.io/badge/-React-20232A?logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ANANDCHITYALA&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views" />
+</p>
 
 ---
 
-### 🚀 Projects
+## 💬 Elevator Pitch
 
-- 🧪 [TrueVeda AyurLife Website](https://github.com/ANANDCHITYALA/TrueVeda-AyurLife-Website)
-- 💼 [Internship](https://github.com/ANANDCHITYALA/Internship)
-- 📁 [desktop-tutorial](https://github.com/ANANDCHITYALA/desktop-tutorial)
+💼 I'm a full stack developer passionate about building scalable, clean, and intuitive web applications. I enjoy solving real-world problems using technology.
 
 ---
 
-### 📈 GitHub Stats
+## 🏆 GitHub Achievements
 
-![Anand's GitHub stats](https://github-readme-stats.vercel.app/api?username=ANANDCHITYALA&show_icons=true&theme=tokyonight)
-
----
-
-### 📫 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/YOUR_LINK_HERE)
-[![Gmail](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
+![Years Badge](https://badges.pufler.dev/years/ANANDCHITYALA)
+![Repos Badge](https://badges.pufler.dev/repos/ANANDCHITYALA)
+![Commits Badge](https://badges.pufler.dev/commits/monthly/ANANDCHITYALA)
 
 ---
 
-### ⚡ Fun Facts
+## 🔧 Technologies & Tools
 
-- 🔭 I’m currently working on internship projects.
-- 🌱 I’m learning React and MongoDB.
-- 💬 Ask me about web development and Python!
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,django,mysql,mongodb,git,github,figma,docker,linux" />
+</p>
+
+**Proficient in**: HTML5, CSS3, JavaScript ES6+, React, Node.js, Git  
+**Comfortable with**: MongoDB, Python, Docker, Figma, Linux
+
+---
+
+## 📌 Pinned Skills
+
+![Frontend](https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react)
+![Backend](https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge&logo=node.js)
+![Database](https://img.shields.io/badge/Database-MongoDB-brightgreen?style=for-the-badge&logo=mongodb)
+![Tools](https://img.shields.io/badge/Tools-Docker-orange?style=for-the-badge&logo=docker)
+
+---
+
+## 🚀 Featured Projects
+
+🔹 **[TrueVeda AyurLife Website](https://github.com/ANANDCHITYALA/TrueVeda-AyurLife-Website)**  
+‣ *Role*: Frontend Developer  
+‣ *Tech Used*: HTML, CSS, JavaScript  
+‣ *Summary*: Built a responsive Ayurvedic health website for wellness and product promotion.
+
+🔹 **[Internship](https://github.com/ANANDCHITYALA/Internship)**  
+‣ *Role*: Full Stack Developer (Trainee)  
+‣ *Tech Used*: HTML, JavaScript, APIs  
+‣ *Summary*: Solved real-world frontend tasks and REST API challenges during internship.
+
+🔹 **[Fswdt-nov](https://github.com/ANANDCHITYALA/Fswdt-nov)**  
+‣ *Role*: Developer  
+‣ *Tech Used*: MERN Stack  
+‣ *Summary*: Projects from Full Stack Developer training bootcamp.
+
+---
+
+## 🎓 Certifications & Achievements
+
+- 🏅 Meta Front-End Developer – Coursera (2025)  
+- 🏅 JavaScript Algorithms – freeCodeCamp  
+- 🥇 1st place in college-level Hackathon – 2024
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ANANDCHITYALA&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANANDCHITYALA&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ANANDCHITYALA&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📄 Resume
+
+📥 *[Download My Resume](https://yourdomain.com/resume.pdf)*  
+> 🔧 Let me know when you have a live link and I’ll replace the placeholder.
+
+---
+
+## 📫 Contact Me
+
+<p align="center">
+  <a href="mailto:anandchityalach@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/anandchityala">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<!-- Optional: GitHub Contribution Snake -->
+<!--
+## 🐍 Contribution Snake
+![Snake animation](https://github.com/ANANDCHITYALA/ANANDCHITYALA/blob/output/github-contribution-grid-snake.svg)
+-->
