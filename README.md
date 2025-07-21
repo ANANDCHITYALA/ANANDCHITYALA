@@ -73,7 +73,6 @@
 ## 📄 Resume
 
 📥 *[Download My Resume](https://yourdomain.com/resume.pdf)*  
-> 🔧 Let me know when you have a live link and I’ll replace the placeholder.
 
 ---
 
