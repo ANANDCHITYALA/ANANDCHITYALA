@@ -15,20 +15,16 @@
 
 ## 🏆 GitHub Achievements
 
-![Years Badge](https://badges.pufler.dev/years/ANANDCHITYALA)
-![Repos Badge](https://badges.pufler.dev/repos/ANANDCHITYALA)
-![Commits Badge](https://badges.pufler.dev/commits/monthly/ANANDCHITYALA)
-
----
-
-## 🔧 Technologies & Tools
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,django,mysql,mongodb,git,github,figma,docker,linux" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ANANDCHITYALA&theme=gruvbox&margin-w=15&no-bg=true" />
 </p>
 
-**Proficient in**: HTML5, CSS3, JavaScript ES6+, React, Node.js, Git  
-**Comfortable with**: MongoDB, Python, Docker, Figma, Linux
+<p align="center">
+  <img src="https://img.shields.io/github/followers/ANANDCHITYALA?label=Followers&style=flat-square" />
+  <img src="https://img.shields.io/github/stars/ANANDCHITYALA?label=Stars&style=flat-square" />
+  <img src="https://img.shields.io/github/repos/ANANDCHITYALA?label=Public%20Repos&style=flat-square" />
+  <img src="https://img.shields.io/github/gists/ANANDCHITYALA?label=Gists&style=flat-square" />
+</p>
 
 ---
 
