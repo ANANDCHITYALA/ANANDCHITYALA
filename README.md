@@ -46,6 +46,13 @@
 ---
 
 ## 🎓 Certifications & Achievements
+### 🏆 Certification
+
+[![Microsoft Backend Bootcamp Certificate](https://raw.githubusercontent.com/ANANDCHITYALA/ANANDCHITYALA/main/microsoft-backend-bootcamp-certificate.png)](https://cert.devtown.in.tech/verify/CMNqas)
+
+**Backend Web Development with JavaScript, Node.js & Express**  
+Hosted by Microsoft Learn Student Ambassadors  
+👉 [Verify Certificate](https://cert.devtown.in.tech/verify/CMNqas)
 
 - 🏅 [Meta Front-End Developer – Coursera (2025)](https://coursera.org/verify/YOUR_META_CERT_LINK)
 - 🏅 [JavaScript Algorithms – freeCodeCamp](https://www.freecodecamp.org/certification/YOUR_USERNAME/javascript-algorithms-and-data-structures)
