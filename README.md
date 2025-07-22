@@ -103,7 +103,14 @@
   <a href="https://www.linkedin.com/in/anandchityala">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="tel:+919381677003">
+    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://anandchityala.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
+
 
 ---
 
