@@ -23,9 +23,6 @@
   <img src="https://img.shields.io/github/followers/ANANDCHITYALA?label=Followers&style=flat-square" />
   <img src="https://img.shields.io/github/stars/ANANDCHITYALA?label=Stars&style=flat-square" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ANANDCHITYALA&show_icons=true&theme=gruvbox" />
-</p>
 
 ---
 
@@ -110,7 +107,7 @@
 ---
 
 <!-- Optional: GitHub Contribution Snake -->
-<!--
+
 ## 🐍 Contribution Snake
 ![Snake animation](https://github.com/ANANDCHITYALA/ANANDCHITYALA/blob/output/github-contribution-grid-snake.svg)
--->
+
