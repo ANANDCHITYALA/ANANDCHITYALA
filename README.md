@@ -47,23 +47,30 @@
 
 ## 🎓 Certifications & Achievements
 
+<div style="display: flex; justify-content: space-between; gap: 40px; flex-wrap: wrap;">
 
-<!-- Group 1 -->
-- 🏅 [FSWD Completion Certificate – 2025](https://github.com/ANANDCHITYALA/ANANDCHITYALA/blob/main/FSWD_Completion_Certificate.png)  
-- 🏅 [FSWD Project Certificate – 2025](https://github.com/ANANDCHITYALA/ANANDCHITYALA/blob/main/FSWD_Project_Certificate.png)  
-- 🏅 [FSWD Training Certificate – 2025](https://github.com/ANANDCHITYALA/ANANDCHITYALA/blob/main/FSWD_Training_Certificate.png)  
-- 🏅 [GFG Summer Workshop Certificate – 2024](https://github.com/ANANDCHITYALA/ANANDCHITYALA/blob/main/Gfg_Summer_Workshop_Certificate.png)  
-- 🏅 [NIIT Foundation Digital Productivity Certificate – 2024](https://github.com/ANANDCHITYALA/ANANDCHITYALA/blob/main/NIIT_Foundation_Digital_Productivity_Certificate.png)  
+<div style="flex: 1; min-width: 300px;">
 
-<!-- Spacer -->
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- 🥇 <a href="https://github.com/ANANDCHITYALA/ANANDCHITYALA/blob/main/FSWD_Completion_Certificate.png" style="text-decoration: none;">FSWD Completion Certificate – 2025</a>  
+- 🥇 <a href="https://github.com/ANANDCHITYALA/ANANDCHITYALA/blob/main/FSWD_Project_Certificate.png" style="text-decoration: none;">FSWD Project Certificate – 2025</a>  
+- 🥇 <a href="https://github.com/ANANDCHITYALA/ANANDCHITYALA/blob/main/FSWD_Training_Certificate.png" style="text-decoration: none;">FSWD Training Certificate – 2025</a>  
+- 🥇 <a href="https://github.com/ANANDCHITYALA/ANANDCHITYALA/blob/main/Gfg_Summer_Workshop_Certificate.png" style="text-decoration: none;">GFG Summer Workshop Certificate – 2024</a>  
+- 🥇 <a href="https://github.com/ANANDCHITYALA/ANANDCHITYALA/blob/main/NIIT_Foundation_Digital_Productivity_Certificate.png" style="text-decoration: none;">NIIT Digital Productivity Certificate – 2024</a>  
 
-<!-- Group 2 -->
-- 🏅 [Naukri Campus AINCAT Aptitude Certificate – 2024](https://github.com/ANANDCHITYALA/ANANDCHITYALA/blob/main/Naukri_Campus_AINCAT_Aptitude_Certificate.png)  
-- 🏅 [Walmart Global Tech Internship Certificate – 2024](https://github.com/ANANDCHITYALA/ANANDCHITYALA/blob/main/Walmart_Global_Tech_INTERNSHIP_Certificate.jpeg)  
-- 🏅 [GDSC Frontend Certificate – 2024](https://github.com/ANANDCHITYALA/ANANDCHITYALA/blob/main/gdsc_frontend_certificate.png)  
-- 🏅 [Microsoft Backend Bootcamp Certificate – 2024](https://github.com/ANANDCHITYALA/ANANDCHITYALA/blob/main/microsoft_backend_bootcamp_certificate.png)  
-- 🏅 [Microsoft Frontend Bootcamp Certificate – 2024](https://github.com/ANANDCHITYALA/ANANDCHITYALA/blob/main/microsoft_frontend_bootcamp_certificate.png)
+</div>
+
+<div style="flex: 1; min-width: 300px;">
+
+- 🥇 <a href="https://github.com/ANANDCHITYALA/ANANDCHITYALA/blob/main/Naukri_Campus_AINCAT_Aptitude_Certificate.png" style="text-decoration: none;">Naukri AINCAT Aptitude Certificate – 2024</a>  
+- 🥇 <a href="https://github.com/ANANDCHITYALA/ANANDCHITYALA/blob/main/Walmart_Global_Tech_INTERNSHIP_Certificate.jpeg" style="text-decoration: none;">Walmart Tech Internship Certificate – 2024</a>  
+- 🥇 <a href="https://github.com/ANANDCHITYALA/ANANDCHITYALA/blob/main/gdsc_frontend_certificate.png" style="text-decoration: none;">GDSC Frontend Certificate – 2024</a>  
+- 🥇 <a href="https://github.com/ANANDCHITYALA/ANANDCHITYALA/blob/main/microsoft_backend_bootcamp_certificate.png" style="text-decoration: none;">Microsoft Backend Bootcamp – 2024</a>  
+- 🥇 <a href="https://github.com/ANANDCHITYALA/ANANDCHITYALA/blob/main/microsoft_frontend_bootcamp_certificate.png" style="text-decoration: none;">Microsoft Frontend Bootcamp – 2024</a>  
+
+</div>
+
+</div>
+
 
 ---
 
