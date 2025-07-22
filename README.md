@@ -48,15 +48,16 @@
 ## 🎓 Certifications & Achievements
 ### 🏆 Certification
 
-[![Microsoft Backend Bootcamp Certificate](https://github.com/ANANDCHITYALA/ANANDCHITYALA/blob/main/microsoft_backend_bootcamp_certificate.png)](https://cert.devtown.in.tech/verify/CMNqas)
+## 🎓 Certifications & Achievements
 
-**Backend Web Development with JavaScript, Node.js & Express**  
-Hosted by Microsoft Learn Student Ambassadors  
-👉 [Verify Certificate](https://cert.devtown.in.tech/verify/CMNqas)
+| Left Side | Right Side |
+|----------|------------|
+| 🏅 [FSWD Completion Certificate](https://github.com/ANANDCHITYALA/ANANDCHITYALA/blob/main/FSWD_Completion_Certificate.png) | 🏅 [Naukri Campus AINCAT Aptitude Certificate](https://github.com/ANANDCHITYALA/ANANDCHITYALA/blob/main/Naukri_Campus_AINCAT_Aptitude_Certificate.png) |
+| 🏅 [FSWD Project Certificate](https://github.com/ANANDCHITYALA/ANANDCHITYALA/blob/main/FSWD_Project_Certificate.png) | 🏅 [Walmart Global Tech INTERNSHIP Certificate](https://github.com/ANANDCHITYALA/ANANDCHITYALA/blob/main/Walmart_Global_Tech_INTERNSHIP_Certificate.jpeg) |
+| 🏅 [FSWD Training Certificate](https://github.com/ANANDCHITYALA/ANANDCHITYALA/blob/main/FSWD_Training_Certificate.png) | 🏅 [GDSC Frontend Certificate](https://github.com/ANANDCHITYALA/ANANDCHITYALA/blob/main/gdsc_frontend_certificate.png) |
+| 🏅 [GFG Summer Workshop Certificate](https://github.com/ANANDCHITYALA/ANANDCHITYALA/blob/main/Gfg_Summer_Workshop_Certificate.png) | 🏅 [Microsoft Backend Bootcamp Certificate](https://github.com/ANANDCHITYALA/ANANDCHITYALA/blob/main/microsoft_backend_bootcamp_certificate.png) |
+| 🏅 [NIIT Foundation Digital Productivity Certificate](https://github.com/ANANDCHITYALA/ANANDCHITYALA/blob/main/NIIT_Foundation_Digital_Productivity_Certificate.png) | 🏅 [Microsoft Frontend Bootcamp Certificate](https://github.com/ANANDCHITYALA/ANANDCHITYALA/blob/main/microsoft_frontend_bootcamp_certificate.png) |
 
-- 🏅 [Microsoft Backend Bootcamp Certificate](https://github.com/ANANDCHITYALA/ANANDCHITYALA/blob/main/microsoft_backend_bootcamp_certificate.png)
-- 🏅 [JavaScript Algorithms – freeCodeCamp](https://www.freecodecamp.org/certification/YOUR_USERNAME/javascript-algorithms-and-data-structures)
-- 🥇 [1st place in college-level Hackathon – 2024](https://drive.google.com/file/d/YOUR_HACKATHON_CERT_ID/view?usp=sharing)
 
 ---
 
