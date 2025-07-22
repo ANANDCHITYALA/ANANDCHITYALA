@@ -48,7 +48,7 @@
 ## 🎓 Certifications & Achievements
 ### 🏆 Certification
 
-[![Microsoft Backend Bootcamp Certificate](https://raw.githubusercontent.com/ANANDCHITYALA/ANANDCHITYALA/main/microsoft-backend-bootcamp-certificate.png)](https://cert.devtown.in.tech/verify/CMNqas)
+[![Microsoft Backend Bootcamp Certificate](https://github.com/ANANDCHITYALA/ANANDCHITYALA/blob/main/microsoft_backend_bootcamp_certificate.png)](https://cert.devtown.in.tech/verify/CMNqas)
 
 **Backend Web Development with JavaScript, Node.js & Express**  
 Hosted by Microsoft Learn Student Ambassadors  
