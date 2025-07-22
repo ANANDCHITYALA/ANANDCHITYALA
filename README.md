@@ -9,7 +9,7 @@
 
 ## 💬 Elevator Pitch
 
-💼 I'm a full stack developer passionate about building scalable, clean, and intuitive web applications. I enjoy solving real-world problems using technology.
+💼 I'm a full stack developer passionate about building scalable, clean, and user-friendly web applications. I enjoy solving real-world problems using technology.
 
 ---
 
