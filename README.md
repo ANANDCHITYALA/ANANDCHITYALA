@@ -46,17 +46,19 @@
 ---
 
 ## 🎓 Certifications & Achievements
-### 🏆 Certification
 
-## 🎓 Certifications & Achievements
 
-| Left Side | Right Side |
-|----------|------------|
-| 🏅 [FSWD Completion Certificate](https://github.com/ANANDCHITYALA/ANANDCHITYALA/blob/main/FSWD_Completion_Certificate.png) | 🏅 [Naukri Campus AINCAT Aptitude Certificate](https://github.com/ANANDCHITYALA/ANANDCHITYALA/blob/main/Naukri_Campus_AINCAT_Aptitude_Certificate.png) |
-| 🏅 [FSWD Project Certificate](https://github.com/ANANDCHITYALA/ANANDCHITYALA/blob/main/FSWD_Project_Certificate.png) | 🏅 [Walmart Global Tech INTERNSHIP Certificate](https://github.com/ANANDCHITYALA/ANANDCHITYALA/blob/main/Walmart_Global_Tech_INTERNSHIP_Certificate.jpeg) |
-| 🏅 [FSWD Training Certificate](https://github.com/ANANDCHITYALA/ANANDCHITYALA/blob/main/FSWD_Training_Certificate.png) | 🏅 [GDSC Frontend Certificate](https://github.com/ANANDCHITYALA/ANANDCHITYALA/blob/main/gdsc_frontend_certificate.png) |
-| 🏅 [GFG Summer Workshop Certificate](https://github.com/ANANDCHITYALA/ANANDCHITYALA/blob/main/Gfg_Summer_Workshop_Certificate.png) | 🏅 [Microsoft Backend Bootcamp Certificate](https://github.com/ANANDCHITYALA/ANANDCHITYALA/blob/main/microsoft_backend_bootcamp_certificate.png) |
-| 🏅 [NIIT Foundation Digital Productivity Certificate](https://github.com/ANANDCHITYALA/ANANDCHITYALA/blob/main/NIIT_Foundation_Digital_Productivity_Certificate.png) | 🏅 [Microsoft Frontend Bootcamp Certificate](https://github.com/ANANDCHITYALA/ANANDCHITYALA/blob/main/microsoft_frontend_bootcamp_certificate.png) |
+- 🏅 [FSWD Completion Certificate – 2025](https://github.com/ANANDCHITYALA/ANANDCHITYALA/blob/main/FSWD_Completion_Certificate.png)  
+- 🏅 [FSWD Project Certificate – 2025](https://github.com/ANANDCHITYALA/ANANDCHITYALA/blob/main/FSWD_Project_Certificate.png)  
+- 🏅 [FSWD Training Certificate – 2025](https://github.com/ANANDCHITYALA/ANANDCHITYALA/blob/main/FSWD_Training_Certificate.png)  
+- 🏅 [GFG Summer Workshop Certificate – 2024](https://github.com/ANANDCHITYALA/ANANDCHITYALA/blob/main/Gfg_Summer_Workshop_Certificate.png)  
+- 🏅 [NIIT Foundation Digital Productivity Certificate – 2024](https://github.com/ANANDCHITYALA/ANANDCHITYALA/blob/main/NIIT_Foundation_Digital_Productivity_Certificate.png)  
+
+- 🏅 [Naukri Campus AINCAT Aptitude Certificate – 2024](https://github.com/ANANDCHITYALA/ANANDCHITYALA/blob/main/Naukri_Campus_AINCAT_Aptitude_Certificate.png)  
+- 🏅 [Walmart Global Tech Internship Certificate – 2024](https://github.com/ANANDCHITYALA/ANANDCHITYALA/blob/main/Walmart_Global_Tech_INTERNSHIP_Certificate.jpeg)  
+- 🏅 [GDSC Frontend Certificate – 2024](https://github.com/ANANDCHITYALA/ANANDCHITYALA/blob/main/gdsc_frontend_certificate.png)  
+- 🏅 [Microsoft Backend Bootcamp Certificate – 2024](https://github.com/ANANDCHITYALA/ANANDCHITYALA/blob/main/microsoft_backend_bootcamp_certificate.png)  
+- 🏅 [Microsoft Frontend Bootcamp Certificate – 2024](https://github.com/ANANDCHITYALA/ANANDCHITYALA/blob/main/microsoft_frontend_bootcamp_certificate.png)
 
 
 ---
