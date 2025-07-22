@@ -107,7 +107,8 @@
 ---
 
 <!-- Optional: GitHub Contribution Snake -->
-
+<!-- 
 ## 🐍 Contribution Snake
 ![Snake animation](https://github.com/ANANDCHITYALA/ANANDCHITYALA/blob/output/github-contribution-grid-snake.svg)
+ -->
 
