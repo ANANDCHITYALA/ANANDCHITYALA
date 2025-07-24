@@ -81,7 +81,6 @@
 ---
 
 ## 🔥 Contribution Streak
-## 🔥 Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ANANDCHITYALA&theme=tokyonight" alt="GitHub Streak" />
