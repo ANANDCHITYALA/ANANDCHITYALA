@@ -95,14 +95,12 @@
   <table>
     <tr>
       <td align="center">
-        🔍 <strong>View Resume</strong><br/>
         <a href="https://raw.githubusercontent.com/ANANDCHITYALA/ANANDCHITYALA/main/Anand_Chityala_Resume.pdf" target="_blank">
           <img src="https://img.shields.io/badge/View%20Resume-00BFFF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View Resume" />
         </a>
       </td>
       <td align="center" width="50px"></td>
       <td align="center">
-        ⬇️ <strong>Download Resume</strong><br/>
         <a href="https://raw.githubusercontent.com/ANANDCHITYALA/ANANDCHITYALA/main/Anand_Chityala_Resume.pdf" download>
           <img src="https://img.shields.io/badge/Download%20Resume-FF6347?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume" />
         </a>
