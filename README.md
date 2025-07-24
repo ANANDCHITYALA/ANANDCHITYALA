@@ -91,8 +91,19 @@
 
 ## 📄 Resume
 
-📥 *[Download My Resume](https://raw.githubusercontent.com/ANANDCHITYALA/ANANDCHITYALA/main/Anand_Chityala_Resume.pdf
-)*  
+<p align="center">
+  <b>🔍 View My Resume</b><br />
+  <a href="https://raw.githubusercontent.com/ANANDCHITYALA/ANANDCHITYALA/main/Anand_Chityala_Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Resume-00BFFF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View Resume" />
+  </a>
+</p>
+
+<p align="center">
+  <b>⬇️ Download My Resume</b><br />
+  <a href="https://raw.githubusercontent.com/ANANDCHITYALA/ANANDCHITYALA/main/Anand_Chityala_Resume.pdf" download>
+    <img src="https://img.shields.io/badge/Download%20Resume-FF6347?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume" />
+  </a>
+</p>
 
 ---
 
