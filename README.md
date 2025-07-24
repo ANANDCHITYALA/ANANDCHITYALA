@@ -91,7 +91,8 @@
 
 ## 📄 Resume
 
-📥 *[Download My Resume](https://github.com/ANANDCHITYALA/ANANDCHITYALA/blob/main/Anand_Chityala_Resume.pdf)*  
+📥 *[Download My Resume](https://raw.githubusercontent.com/ANANDCHITYALA/ANANDCHITYALA/main/Anand_Chityala_Resume.pdf
+)*  
 
 ---
 
