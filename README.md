@@ -48,7 +48,10 @@
 
 <div style="flex: 1; min-width: 300px;">
 
-- 🥇 <a href="https://github.com/ANANDCHITYALA/ANANDCHITYALA/blob/main/FSWD_Completion_Certificate.png" style="text-decoration: none;">FSWD Completion Certificate – 2025</a>  
+- 🥇 <a href="https://raw.githubusercontent.com/ANANDCHITYALA/ANANDCHITYALA/main/FSWD_Completion_Certificate.png" target="_blank" style="text-decoration: none;">
+  FSWD Completion Certificate – 2025
+</a>
+
 - 🥇 <a href="https://github.com/ANANDCHITYALA/ANANDCHITYALA/blob/main/FSWD_Project_Certificate.png" style="text-decoration: none;">FSWD Project Certificate – 2025</a>  
 - 🥇 <a href="https://github.com/ANANDCHITYALA/ANANDCHITYALA/blob/main/FSWD_Training_Certificate.png" style="text-decoration: none;">FSWD Training Certificate – 2025</a>  
 - 🥇 <a href="https://github.com/ANANDCHITYALA/ANANDCHITYALA/blob/main/Gfg_Summer_Workshop_Certificate.png" style="text-decoration: none;">GFG Summer Workshop Certificate – 2024</a>  
