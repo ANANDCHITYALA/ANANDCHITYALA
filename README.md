@@ -38,8 +38,6 @@
   </a>
 </div>
 
-
-
 ---
 
 ## 🎓 Certifications & Achievements
@@ -68,7 +66,6 @@
 
 </div>
 
-
 ---
 
 ## 📈 GitHub Stats
@@ -86,14 +83,13 @@
   <img src="https://streak-stats.demolab.com?user=ANANDCHITYALA&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-
 ---
 
 ## 📄 Resume
 
 <p align="center">
 
-  <a href="https://raw.githubusercontent.com/ANANDCHITYALA/ANANDCHITYALA/main/Anand_Chityala_Resume.pdf" target="_blank">
+  <a href="https://github.com/ANANDCHITYALA/ANANDCHITYALA/blob/main/Anand_Chityala_Resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/View%20Resume-00BFFF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View Resume" />
   </a>
   &nbsp;&nbsp;&nbsp;
