@@ -48,24 +48,21 @@
 
 <div style="flex: 1; min-width: 300px;">
 
-- 🥇 <a href="https://raw.githubusercontent.com/ANANDCHITYALA/ANANDCHITYALA/main/FSWD_Completion_Certificate.png" target="_blank" style="text-decoration: none;">
-  FSWD Completion Certificate – 2025
-</a>
-
-- 🥇 <a href="https://github.com/ANANDCHITYALA/ANANDCHITYALA/blob/main/FSWD_Project_Certificate.png" style="text-decoration: none;">FSWD Project Certificate – 2025</a>  
-- 🥇 <a href="https://github.com/ANANDCHITYALA/ANANDCHITYALA/blob/main/FSWD_Training_Certificate.png" style="text-decoration: none;">FSWD Training Certificate – 2025</a>  
-- 🥇 <a href="https://github.com/ANANDCHITYALA/ANANDCHITYALA/blob/main/Gfg_Summer_Workshop_Certificate.png" style="text-decoration: none;">GFG Summer Workshop Certificate – 2024</a>  
-- 🥇 <a href="https://github.com/ANANDCHITYALA/ANANDCHITYALA/blob/main/NIIT_Foundation_Digital_Productivity_Certificate.png" style="text-decoration: none;">NIIT Digital Productivity Certificate – 2024</a>  
+- 🥇 <a href="https://raw.githubusercontent.com/ANANDCHITYALA/ANANDCHITYALA/main/FSWD_Completion_Certificate.png" target="_blank" style="text-decoration: none;">FSWD Completion Certificate – 2025</a>
+- 🥇 <a href="https://raw.githubusercontent.com/ANANDCHITYALA/ANANDCHITYALA/main/FSWD_Project_Certificate.png" target="_blank" style="text-decoration: none;">FSWD Project Certificate – 2025</a>
+- 🥇 <a href="https://raw.githubusercontent.com/ANANDCHITYALA/ANANDCHITYALA/main/FSWD_Training_Certificate.png" target="_blank" style="text-decoration: none;">FSWD Training Certificate – 2025</a>
+ - 🥇 <a href="https://raw.githubusercontent.com/ANANDCHITYALA/ANANDCHITYALA/main/Gfg_Summer_Workshop_Certificate.png" target="_blank" style="text-decoration: none;">GFG Summer Workshop Certificate – 2024</a>
+- 🥇 <a href="https://raw.githubusercontent.com/ANANDCHITYALA/ANANDCHITYALA/main/NIIT_Foundation_Digital_Productivity_Certificate.png" target="_blank" style="text-decoration: none;">NIIT Digital Productivity Certificate – 2024</a>
 
 </div>
 
 <div style="flex: 1; min-width: 300px;">
 
-- 🥇 <a href="https://github.com/ANANDCHITYALA/ANANDCHITYALA/blob/main/Naukri_Campus_AINCAT_Aptitude_Certificate.png" style="text-decoration: none;">Naukri AINCAT Aptitude Certificate – 2024</a>  
-- 🥇 <a href="https://github.com/ANANDCHITYALA/ANANDCHITYALA/blob/main/Walmart_Global_Tech_INTERNSHIP_Certificate.jpeg" style="text-decoration: none;">Walmart Tech Internship Certificate – 2024</a>  
-- 🥇 <a href="https://github.com/ANANDCHITYALA/ANANDCHITYALA/blob/main/gdsc_frontend_certificate.png" style="text-decoration: none;">GDSC Frontend Certificate – 2024</a>  
-- 🥇 <a href="https://github.com/ANANDCHITYALA/ANANDCHITYALA/blob/main/microsoft_backend_bootcamp_certificate.png" style="text-decoration: none;">Microsoft Backend Bootcamp – 2024</a>  
-- 🥇 <a href="https://github.com/ANANDCHITYALA/ANANDCHITYALA/blob/main/microsoft_frontend_bootcamp_certificate.png" style="text-decoration: none;">Microsoft Frontend Bootcamp – 2024</a>  
+- 🥇<a href="https://raw.githubusercontent.com/ANANDCHITYALA/ANANDCHITYALA/main/Naukri_Campus_AINCAT_Aptitude_Certificate.png" target="_blank" style="text-decoration: none;">Naukri AINCAT Aptitude Certificate – 2024</a>
+- 🥇 <a href="https://raw.githubusercontent.com/ANANDCHITYALA/ANANDCHITYALA/main/Walmart_Global_Tech_INTERNSHIP_Certificate.jpeg" target="_blank" style="text-decoration: none;">Walmart Tech Internship Certificate – 2024</a>
+- 🥇<a href="https://raw.githubusercontent.com/ANANDCHITYALA/ANANDCHITYALA/main/gdsc_frontend_certificate.png" target="_blank" style="text-decoration: none;">GDSC Frontend Certificate – 2024</a>
+- 🥇 <a href="https://raw.githubusercontent.com/ANANDCHITYALA/ANANDCHITYALA/main/microsoft_backend_bootcamp_certificate.png" target="_blank" style="text-decoration: none;">Microsoft Backend Bootcamp – 2024</a>
+- 🥇 <a href="https://raw.githubusercontent.com/ANANDCHITYALA/ANANDCHITYALA/main/microsoft_frontend_bootcamp_certificate.png" target="_blank" style="text-decoration: none;">Microsoft Frontend Bootcamp – 2024</a>
 
 </div>
 
